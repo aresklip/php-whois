@@ -46,5 +46,5 @@
             "phpunit --bootstrap tests/bootstrap.php tests"
         ]
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "dev"
 }
